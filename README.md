@@ -61,11 +61,11 @@ The pipeline for inference and training involves:
 * Feeding normalized embeddings into a dense neural network to classify exercises.
 * Using the Action-Trigger module to count repetitions by identifying two salient poses in sequence.
 * The feedback mechanism operates concurrently with repetition counting or duration measurement. It evaluates joint angles against ideal angles specific to each exercise, providing real-time feedback (verbal, visual, textual, or auditory) to correct form inconsistencies.
+### The results of salient pose recognition model
 <figure>
 <img width="593" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/d9e9e54d-5830-47bb-bfe9-1fbd7095668d">
-<figcaption>The results of salient pose recognition model</figcaption>
 </figure>
+### Structure of PoseRAC model
 <figure>
   <img width="776" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/92cedb7f-d5cb-4476-8904-92e41f50053e">
-  <figcaption>Structure of PoseRAC model</figcaption>
 </figure>
