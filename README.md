@@ -65,6 +65,7 @@ The pipeline for inference and training involves:
 <figure>
 <img width="593" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/d9e9e54d-5830-47bb-bfe9-1fbd7095668d">
 </figure>
+
 ### Structure of PoseRAC model
 <figure>
   <img width="776" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/92cedb7f-d5cb-4476-8904-92e41f50053e">
