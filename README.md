@@ -1,3 +1,8 @@
+<p align="center">
+<img width="365" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/7a946710-6337-4cf8-b9f2-d9a5dd1e6401">
+</p>
+
+
 # Personal-Calisthenics-Assistant-Mobile-Application
 
 Like in every sport, in calisthenics, visual demonstration and instant feedback for performance
@@ -28,10 +33,7 @@ too many elements on a single screen. The 5 main sections are as follows:
 3. Profile section
 4. Calisthenics Skills section
 5. Workout section
-<figure>
-<img width="365" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/7a946710-6337-4cf8-b9f2-d9a5dd1e6401">
-  <figcaption>Logo of the application</figcaption>
-</figure>
+
 <figure>
 <img width="717" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/0c1da0eb-e66e-4d16-99f1-612fa8226b5b">
   <figcaption></figcaption>
