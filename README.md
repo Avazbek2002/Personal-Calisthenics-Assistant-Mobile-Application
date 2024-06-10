@@ -36,7 +36,7 @@ too many elements on a single screen. The 5 main sections are as follows:
 
 
 <p align="center">
-<figure align>
+<figure align="center">
 <img width="717" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/0c1da0eb-e66e-4d16-99f1-612fa8226b5b">
 </figure>
 </p>
