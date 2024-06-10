@@ -30,18 +30,23 @@ interface, avoiding potential clutter and confusion that could arise from trying
 too many elements on a single screen. The 5 main sections are as follows:
 1. Log in section
 2. Sign Up section
-3. Profile section
-4. Calisthenics Skills section
-5. Workout section
-
-
 <p align="center">
 <img width="717" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/0c1da0eb-e66e-4d16-99f1-612fa8226b5b">
 </p>
-
-<img width="696" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/e7b3fcc2-745a-4be2-8656-702fd43a4dbd">
-<img width="476" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/f9c5bd18-0043-4165-94a9-d4edda6005fe">
+4. Profile section
+<p align="center">
+  <img width="696" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/e7b3fcc2-745a-4be2-8656-702fd43a4dbd">
+</p>
+5. Calisthenics Skills section
+<p align="center">
+  <img width="476" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/f9c5bd18-0043-4165-94a9-d4edda6005fe">
+</p>
+6. Workout section
+<p align="center">
 <img width="476" alt="image" src="https://github.com/Avazbek2002/Personal-Calisthenics-Assistant-Mobile-Application/assets/64166521/508732c6-3602-4aea-98c0-ca821c0963bd">
+</p>
+
+
 
 ## ML model description
 The solution for counting repetitions in repetitive calisthenics exercises leverages a method inspired by PoseRAC. This approach captures each action by focusing on two salient poses instead of numerous frames, reducing computational costs and enhancing performance. PoseRAC utilizes Pose Saliency Annotation for training and employs a Transformer encoder to determine the significance of each exercise pose. However, due to the impracticality of integrating such a large model into a mobile device, an alternative approach using a dense neural network with two hidden layers was adopted.
