@@ -9,8 +9,7 @@ Like in every sport, in calisthenics, visual demonstration and instant feedback 
 play a paramount role. Currently developed applications offer visual and verbal demonstration
 of each skill using a video recording. However, the problem with these mobile applications is
 that their visual demonstrations do not contain information on which muscles work during the
-exercise, and they do not provide any sort of feedback on a player’s performance. This disser-
-tation focuses on the development of a mobile application designed for personal calisthenics
+exercise, and they do not provide any sort of feedback on a player’s performance. This dissertation focuses on the development of a mobile application designed for personal calisthenics
 training. The application utilizes virtual muscle simulation to demonstrate the progression of
 various types of skills, highlighting the specific muscles worked during each exercise. The
 application also uses pose estimation technology to analyze an athlete’s performance through
